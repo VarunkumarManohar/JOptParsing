@@ -14,3 +14,15 @@ This approach serves as an alternative means to the traditional shell scripts pa
 === Shell script
 
 1. The classpath variable is created appropriately so that the java command finds the classes [custom+dependencies]
+
+
+=== Running the code
+
+1. Successful execution
+./InvokeScript.sh --dumpDirectory /usr/lib
+
+2.Error generating call
+./InvokeScript.sh
+or
+./InvokeScript.sh --dumpDirectory
+
