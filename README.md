@@ -19,12 +19,16 @@ This approach serves as an alternative means to the traditional shell scripts pa
 === Running the code
 
 1. Successful execution
+
 ./InvokeScript.sh -- dumpDirectory /usr/lib
 
 
 
 2.Error generating call
+
 ./InvokeScript.sh 
+
 or
+
 ./InvokeScript.sh -- dumpDirectory
 
