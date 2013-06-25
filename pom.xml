@@ -60,7 +60,7 @@
       </descriptorRefs>
       <archive>
         <manifest>
-          <mainClass>com.mycompany.package.MainClass</mainClass>
+          <mainClass>optionparsing</mainClass>
         </manifest>
       </archive>
     </configuration>
